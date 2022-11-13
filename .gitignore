@@ -91,3 +91,5 @@ logs/
 /gradlew.bat
 buildOutputCleanup/
 buildOutputCleanup.lock
+/pom.xml
+/mvnw
