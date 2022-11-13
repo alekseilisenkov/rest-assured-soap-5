@@ -67,43 +67,27 @@ output.xml
 *.class
 
 # Log file
-*.log
 
 # BlueJ files
-*.ctxt
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Properties files
 *.properties
 
 # Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-*.iml
 
 # Project gen files
 .idea
 .allure/
-.gradle/
 allure-results/
-gradle/
-build/
-bin/
+../rest_api_specifications/123/gradle/
 out/
 logs/
-target/
-.classpath
-.project
 .lock
 .settings/org.eclipse.buildship.core.prefs
 .vscode
 /gradlew
 /gradlew.bat
-/buildOutputCleanup
+buildOutputCleanup/
+buildOutputCleanup.lock
