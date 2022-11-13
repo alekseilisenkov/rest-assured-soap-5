@@ -57,6 +57,7 @@ dependency-reduced-pom.xml
 *.ipr
 *.iws
 *.idea
+*.cmd
 
 README.html
 
@@ -64,7 +65,6 @@ request.xml
 output.xml
 
 # Compiled class file
-*.class
 
 # Log file
 
